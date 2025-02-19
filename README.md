@@ -1,0 +1,1 @@
+This repository demonstrates a common React Native bug involving incorrect state management leading to UI update failures. The `BuggyComponent.js` file showcases the faulty implementation, while `FixedComponent.js` presents the corrected version. The bug is particularly challenging to debug due to asynchronous operations and stale closures.
